@@ -1,0 +1,15 @@
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\bin\Debug\net6.0\W04.1.C02.exe
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\bin\Debug\net6.0\W04.1.C02.deps.json
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\bin\Debug\net6.0\W04.1.C02.runtimeconfig.json
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\bin\Debug\net6.0\W04.1.C02.dll
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\bin\Debug\net6.0\W04.1.C02.pdb
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.csproj.AssemblyReference.cache
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.AssemblyInfoInputs.cache
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.AssemblyInfo.cs
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.csproj.CoreCompileInputs.cache
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.dll
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\refint\W04.1.C02.dll
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.pdb
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\W04.1.C02.genruntimeconfig.cache
+C:\Users\stein\OneDrive\Bureaublad\HR Informatica\Opleiding Jaar 1\Semester2 Project B en C#\All Assignments\Week 4 Assignments\W04.1.C02 (File writing)\obj\Debug\net6.0\ref\W04.1.C02.dll

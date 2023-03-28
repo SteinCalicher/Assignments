@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7K/cP7BZT1j0/3xjKOYUgHRRHVO2wnisGAQldo3juHqkp/TOqjMFG2CG63XefeGIX8XJZiNBCyeRMJeBMLE3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stein\\OneDrive\\Bureaublad\\HR Informatica\\Opleiding Jaar 1\\Semester2 Project B en C#\\All Assignments\\Week 4 Assignments\\W04.1.C04 (Reading and updating objects in JSON files)\\W04.1.C04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stein\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
