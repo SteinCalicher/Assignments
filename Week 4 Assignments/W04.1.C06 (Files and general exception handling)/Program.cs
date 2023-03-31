@@ -20,21 +20,36 @@ class Program
     public static List<Person> FileReader()
     {
         var FileName = @"People.json";
-        using (StreamReader sr = new(FileName))
+        try
         {
-            string JsonString = sr.ReadToEnd();
-            List<Person> ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
-            return ListOfPersons;
+            using (StreamReader sr = new(FileName))
+            {
+                string JsonString = sr.ReadToEnd();
+                List<Person> ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
+                return ListOfPersons;
+            }
+        }
+        catch(Exception E)
+        {
+            Console.WriteLine(E.Message);
+            return null;
         }
     }
 
     public static void FileWriter(List<Person> Input)
     {
-        var FileName = @"People.json";
-        using (StreamWriter sw = new(FileName))
+        try
         {
-            var List2Json = JsonConvert.SerializeObject(Input);
-            sw.Write(List2Json);
+            var FileName = @"People.json";
+            using (StreamWriter sw = new(FileName))
+            {
+                var List2Json = JsonConvert.SerializeObject(Input);
+                sw.Write(List2Json);
+            }
+        }
+        catch(Exception E)
+        {
+            Console.WriteLine(E.Message);
         }
     }
 }
