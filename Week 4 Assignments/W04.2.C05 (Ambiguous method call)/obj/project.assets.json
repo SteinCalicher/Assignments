@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.2.C05\\W04.2.C05.csproj",
+      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.2.C05 (Ambiguous method call)\\W04.2.C05.csproj",
       "projectName": "W04.2.C05",
-      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.2.C05\\W04.2.C05.csproj",
+      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.2.C05 (Ambiguous method call)\\W04.2.C05.csproj",
       "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.2.C05\\obj\\",
+      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.2.C05 (Ambiguous method call)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
