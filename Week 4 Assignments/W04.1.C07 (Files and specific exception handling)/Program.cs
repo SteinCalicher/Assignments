@@ -19,29 +19,28 @@ class Program
 
     public static List<Person> FileReader()
     {
-        string FileName = null;
+        var FileName = @"People.json"; 
         try
         {
-            FileName = @"People.json";
+            using (StreamReader sr = new(FileName))
+            {
+                List<Person> ListOfPersons = null;
+                try
+                {
+                    string JsonString = sr.ReadToEnd();
+                    ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
+                }
+                catch(JsonReaderException e)
+                {
+                    Console.WriteLine($"Invalid JSON. {e.Message}");
+                }
+                return ListOfPersons;
+            }
         }
         catch(FileNotFoundException e)
         {
             Console.WriteLine($"Missing JSON File. {e.Message}");
-        }
-        
-        using (StreamReader sr = new(FileName))
-        {
-            List<Person> ListOfPersons = null;
-            try
-            {
-                string JsonString = sr.ReadToEnd();
-                ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
-            }
-            catch(JsonReaderException e)
-            {
-                Console.WriteLine($"Invalid JSON. {e.Message}");
-            }
-            return ListOfPersons;
+            return null;
         }
     }
 
