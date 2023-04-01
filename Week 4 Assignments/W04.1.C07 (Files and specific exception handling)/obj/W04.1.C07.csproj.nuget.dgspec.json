@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07\\W04.1.C07.csproj": {}
+    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07 (Files and specific exception handling)\\W04.1.C07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07\\W04.1.C07.csproj": {
+    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07 (Files and specific exception handling)\\W04.1.C07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07\\W04.1.C07.csproj",
+        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07 (Files and specific exception handling)\\W04.1.C07.csproj",
         "projectName": "W04.1.C07",
-        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07\\W04.1.C07.csproj",
+        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07 (Files and specific exception handling)\\W04.1.C07.csproj",
         "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07\\obj\\",
+        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C07 (Files and specific exception handling)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

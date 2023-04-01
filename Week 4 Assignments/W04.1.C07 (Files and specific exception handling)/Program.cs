@@ -21,36 +21,39 @@ class Program
     {
         var FileName = @"People.json";
         try
-        {    
-            using (StreamReader sr = new(FileName))
+        {
+            FileName = @"People.json";
+        }
+        catch(FileNotFoundException e)
+        {
+            Console.WriteLine("Missing JSON File");
+            Console.WriteLine(e.Message);   
+        }
+        
+        using (StreamReader sr = new(FileName))
+        {
+            try
             {
                 string JsonString = sr.ReadToEnd();
                 List<Person> ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
                 return ListOfPersons;
             }
+            catch(JsonReaderException e)
+            {
+                Console.WriteLine("Invalid JSON");
+                Console.WriteLine(e.Message);
+                return null;
+            }
         }
-        catch(Exception e)
-        {
-            Console.WriteLine(e.Message);
-            return null;
-        }
-
     }
 
     public static void FileWriter(List<Person> Input)
     {
         var FileName = @"People.json";
-        try
+        using (StreamWriter sw = new(FileName))
         {
-            using (StreamWriter sw = new(FileName))
-            {
-                var List2Json = JsonConvert.SerializeObject(Input);
-                sw.Write(List2Json);
-            }
-        }
-        catch(Exception e)
-        {
-            Console.WriteLine(e.Message);
+            var List2Json = JsonConvert.SerializeObject(Input);
+            sw.Write(List2Json);
         }
     }
 }
