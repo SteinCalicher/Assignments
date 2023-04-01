@@ -19,7 +19,7 @@ class Program
 
     public static List<Person> FileReader()
     {
-        var FileName = @"People.json";
+        string FileName = null;
         try
         {
             FileName = @"People.json";
