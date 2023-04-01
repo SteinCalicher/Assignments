@@ -22,22 +22,20 @@ class Program
         var FileName = @"People.json"; 
         try
         {
-            StreamReader sr = new(FileName)
-            List<Person> ListOfPersons = null;
-            try
+            using (StreamReader sr = new(FileName))
             {
-                string JsonString = sr.ReadToEnd();
-                ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
+                List<Person> ListOfPersons = null;
+                try
+                {
+                    string JsonString = sr.ReadToEnd();
+                    ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
+                }
+                catch(JsonReaderException e)
+                {
+                    Console.WriteLine($"Invalid JSON. {e.Message}");
+                }
+                return ListOfPersons;
             }
-            catch(JsonReaderException e)
-            {
-                Console.WriteLine($"Invalid JSON. {e.Message}");
-            }
-            finally
-            {
-                sr.Close();
-            }
-            return ListOfPersons;
         }
         catch(FileNotFoundException e)
         {
