@@ -26,8 +26,7 @@ class Program
         }
         catch(FileNotFoundException e)
         {
-            Console.WriteLine("Missing JSON File");
-            Console.WriteLine(e.Message);   
+            Console.WriteLine($"Missing JSON File. {e.Message}");
         }
         
         using (StreamReader sr = new(FileName))
@@ -40,8 +39,7 @@ class Program
             }
             catch(JsonReaderException e)
             {
-                Console.WriteLine("Invalid JSON");
-                Console.WriteLine(e.Message);
+                Console.WriteLine($"Invalid JSON. {e.Message}");
                 return null;
             }
         }
