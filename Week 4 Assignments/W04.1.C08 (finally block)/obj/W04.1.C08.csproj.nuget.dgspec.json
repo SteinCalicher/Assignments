@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj": {}
+    "c:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj": {
+    "c:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj",
+        "projectUniqueName": "c:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj",
         "projectName": "W04.1.C08",
-        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj",
+        "projectPath": "c:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\W04.1.C08.csproj",
         "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\obj\\",
+        "outputPath": "c:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 4 Assignments\\W04.1.C08 (finally block)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"

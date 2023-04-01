@@ -34,6 +34,10 @@ class Program
                 {
                     Console.WriteLine($"Invalid JSON. {e.Message}");
                 }
+                finally
+                {
+                    sr.Close();
+                }
                 return ListOfPersons;
             }
         }
