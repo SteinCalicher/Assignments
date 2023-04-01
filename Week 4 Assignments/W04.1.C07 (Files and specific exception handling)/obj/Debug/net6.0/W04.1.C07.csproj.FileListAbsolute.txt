@@ -1,0 +1,17 @@
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.csproj.AssemblyReference.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.AssemblyInfoInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.AssemblyInfo.cs
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.csproj.CoreCompileInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\bin\Debug\net6.0\W04.1.C07.exe
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\bin\Debug\net6.0\W04.1.C07.deps.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\bin\Debug\net6.0\W04.1.C07.runtimeconfig.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\bin\Debug\net6.0\W04.1.C07.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\bin\Debug\net6.0\W04.1.C07.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.csproj.CopyComplete
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\refint\W04.1.C07.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\W04.1.C07.genruntimeconfig.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 4 Assignments\W04.1.C07 (Files and specific exception handling)\obj\Debug\net6.0\ref\W04.1.C07.dll
