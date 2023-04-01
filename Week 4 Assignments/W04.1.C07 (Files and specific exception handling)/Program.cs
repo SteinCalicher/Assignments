@@ -22,7 +22,7 @@ class Program
         var FileName = @"People.json"; 
         try
         {
-            StreamReader sr = new(FileName)
+            StreamReader sr = new(FileName);
             List<Person> ListOfPersons = null;
             try
             {
