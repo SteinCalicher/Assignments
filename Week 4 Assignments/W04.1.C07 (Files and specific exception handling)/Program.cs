@@ -31,17 +31,17 @@ class Program
         
         using (StreamReader sr = new(FileName))
         {
+            List<Person> ListOfPersons = null;
             try
             {
                 string JsonString = sr.ReadToEnd();
-                List<Person> ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
-                return ListOfPersons;
+                ListOfPersons = JsonConvert.DeserializeObject<List<Person>>(JsonString)!;
             }
             catch(JsonReaderException e)
             {
                 Console.WriteLine($"Invalid JSON. {e.Message}");
-                return null;
             }
+            return ListOfPersons;
         }
     }
 
