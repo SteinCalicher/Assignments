@@ -1,0 +1,15 @@
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\bin\Debug\net6.0\W05.1.C05.exe
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\bin\Debug\net6.0\W05.1.C05.deps.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\bin\Debug\net6.0\W05.1.C05.runtimeconfig.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\bin\Debug\net6.0\W05.1.C05.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\bin\Debug\net6.0\W05.1.C05.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.csproj.AssemblyReference.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.AssemblyInfoInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.AssemblyInfo.cs
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.csproj.CoreCompileInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\refint\W05.1.C05.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\W05.1.C05.genruntimeconfig.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C05 (Base class with multiple derived classes)\obj\Debug\net6.0\ref\W05.1.C05.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.C05\\W05.1.C05.csproj",
+      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.C05 (Base class with multiple derived classes)\\W05.1.C05.csproj",
       "projectName": "W05.1.C05",
-      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.C05\\W05.1.C05.csproj",
+      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.C05 (Base class with multiple derived classes)\\W05.1.C05.csproj",
       "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.C05\\obj\\",
+      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.C05 (Base class with multiple derived classes)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
