@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01\\W05.1.H01.csproj": {}
+    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01 (E-commerce)\\W05.1.H01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01\\W05.1.H01.csproj": {
+    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01 (E-commerce)\\W05.1.H01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01\\W05.1.H01.csproj",
+        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01 (E-commerce)\\W05.1.H01.csproj",
         "projectName": "W05.1.H01",
-        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01\\W05.1.H01.csproj",
+        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01 (E-commerce)\\W05.1.H01.csproj",
         "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01\\obj\\",
+        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.1.H01 (E-commerce)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
