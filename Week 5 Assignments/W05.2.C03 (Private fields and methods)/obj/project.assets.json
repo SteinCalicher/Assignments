@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C03\\W05.2.C03.csproj",
+      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C03 (Private fields and methods)\\W05.2.C03.csproj",
       "projectName": "W05.2.C03",
-      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C03\\W05.2.C03.csproj",
+      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C03 (Private fields and methods)\\W05.2.C03.csproj",
       "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C03\\obj\\",
+      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C03 (Private fields and methods)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
