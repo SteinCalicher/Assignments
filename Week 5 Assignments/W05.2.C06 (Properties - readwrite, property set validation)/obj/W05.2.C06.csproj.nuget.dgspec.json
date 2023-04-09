@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06\\W05.2.C06.csproj": {}
+    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06 (Properties - readwrite, property set validation)\\W05.2.C06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06\\W05.2.C06.csproj": {
+    "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06 (Properties - readwrite, property set validation)\\W05.2.C06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06\\W05.2.C06.csproj",
+        "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06 (Properties - readwrite, property set validation)\\W05.2.C06.csproj",
         "projectName": "W05.2.C06",
-        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06\\W05.2.C06.csproj",
+        "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06 (Properties - readwrite, property set validation)\\W05.2.C06.csproj",
         "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06\\obj\\",
+        "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 5 Assignments\\W05.2.C06 (Properties - readwrite, property set validation)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
