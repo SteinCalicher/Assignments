@@ -1,0 +1,15 @@
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\bin\Debug\net6.0\W05.1.C04.exe
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\bin\Debug\net6.0\W05.1.C04.deps.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\bin\Debug\net6.0\W05.1.C04.runtimeconfig.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\bin\Debug\net6.0\W05.1.C04.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\bin\Debug\net6.0\W05.1.C04.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.csproj.AssemblyReference.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.AssemblyInfoInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.AssemblyInfo.cs
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.csproj.CoreCompileInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\refint\W05.1.C04.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\W05.1.C04.genruntimeconfig.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C04 (virtual and override)\obj\Debug\net6.0\ref\W05.1.C04.dll
