@@ -4,14 +4,14 @@
     {
         Person john = new("John Doe");
         Student jane = new("Jane Doe");
-        List<Person> L1 = new() {jane, john};
+        List<Person> L1 = new() {john, jane};
 
         foreach (Person p in L1)
         {
             Console.WriteLine(p.Introduce());
             if (p is Student)
             {
-                Student s = (Student) p;
+                var s = (Student) p;
                 Console.WriteLine(s.Status());
             }
         }
