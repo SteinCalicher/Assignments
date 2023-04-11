@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 6 Assignments\\W06.1.C03\\W06.1.C03.csproj",
+      "projectUniqueName": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 6 Assignments\\W06.1.C03 (Interfaces with properties)\\W06.1.C03.csproj",
       "projectName": "W06.1.C03",
-      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 6 Assignments\\W06.1.C03\\W06.1.C03.csproj",
+      "projectPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 6 Assignments\\W06.1.C03 (Interfaces with properties)\\W06.1.C03.csproj",
       "packagesPath": "C:\\Users\\stein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 6 Assignments\\W06.1.C03\\obj\\",
+      "outputPath": "C:\\Users\\stein\\Desktop\\GitHub\\Assignments\\Week 6 Assignments\\W06.1.C03 (Interfaces with properties)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stein\\AppData\\Roaming\\NuGet\\NuGet.Config"
