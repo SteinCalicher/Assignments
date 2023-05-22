@@ -1,0 +1,15 @@
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\bin\Debug\net6.0\W07.1.C02.exe
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\bin\Debug\net6.0\W07.1.C02.deps.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\bin\Debug\net6.0\W07.1.C02.runtimeconfig.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\bin\Debug\net6.0\W07.1.C02.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\bin\Debug\net6.0\W07.1.C02.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.csproj.AssemblyReference.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.AssemblyInfoInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.AssemblyInfo.cs
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.csproj.CoreCompileInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\refint\W07.1.C02.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\W07.1.C02.genruntimeconfig.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 7 Assignments\W07.1.C02\obj\Debug\net6.0\ref\W07.1.C02.dll
