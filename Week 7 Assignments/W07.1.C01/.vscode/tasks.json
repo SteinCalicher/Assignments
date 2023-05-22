@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Week 4 Assignments/W04.1.C06 (Files and general exception handling)/W04.1.C06.csproj",
+                "${workspaceFolder}/W07.1.C01.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Week 4 Assignments/W04.1.C06 (Files and general exception handling)/W04.1.C06.csproj",
+                "${workspaceFolder}/W07.1.C01.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Week 4 Assignments/W04.1.C06 (Files and general exception handling)/W04.1.C06.csproj"
+                "${workspaceFolder}/W07.1.C01.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
