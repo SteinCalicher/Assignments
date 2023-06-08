@@ -1,0 +1,15 @@
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\bin\Debug\net6.0\W05.1.C01.exe
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\bin\Debug\net6.0\W05.1.C01.deps.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\bin\Debug\net6.0\W05.1.C01.runtimeconfig.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\bin\Debug\net6.0\W05.1.C01.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\bin\Debug\net6.0\W05.1.C01.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.csproj.AssemblyReference.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.AssemblyInfoInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.AssemblyInfo.cs
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.csproj.CoreCompileInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\refint\W05.1.C01.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\W05.1.C01.genruntimeconfig.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.1.C01 (Creating objects of inherited classes)\obj\Debug\net6.0\ref\W05.1.C01.dll

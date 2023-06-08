@@ -1,0 +1,15 @@
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\bin\Debug\net6.0\W05.2.C06.exe
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\bin\Debug\net6.0\W05.2.C06.deps.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\bin\Debug\net6.0\W05.2.C06.runtimeconfig.json
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\bin\Debug\net6.0\W05.2.C06.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\bin\Debug\net6.0\W05.2.C06.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.csproj.AssemblyReference.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.AssemblyInfoInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.AssemblyInfo.cs
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.csproj.CoreCompileInputs.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\refint\W05.2.C06.dll
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.pdb
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\W05.2.C06.genruntimeconfig.cache
+C:\Users\stein\Desktop\GitHub\Assignments\Week 5 Assignments\W05.2.C06 (Properties - readwrite, property set validation)\obj\Debug\net6.0\ref\W05.2.C06.dll
