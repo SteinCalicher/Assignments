@@ -1,0 +1,15 @@
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\bin\Debug\net6.0\jaggedArrayOpdracht.exe
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\bin\Debug\net6.0\jaggedArrayOpdracht.deps.json
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\bin\Debug\net6.0\jaggedArrayOpdracht.runtimeconfig.json
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\bin\Debug\net6.0\jaggedArrayOpdracht.dll
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\bin\Debug\net6.0\jaggedArrayOpdracht.pdb
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.csproj.AssemblyReference.cache
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.AssemblyInfoInputs.cache
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.AssemblyInfo.cs
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.dll
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\refint\jaggedArrayOpdracht.dll
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.pdb
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\jaggedArrayOpdracht.genruntimeconfig.cache
+C:\Users\stein\OneDrive\Documenten\GitHub\Assignments\jaggedArrayOpdracht\obj\Debug\net6.0\ref\jaggedArrayOpdracht.dll
